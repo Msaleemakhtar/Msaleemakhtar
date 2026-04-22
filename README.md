@@ -33,8 +33,3 @@ Focused on production-grade systems that are:
 
 - GitHub: https://github.com/Msaleemakhtar  
 - LinkedIn: https://www.linkedin.com/in/saleemakhtar864/ 
-
----
-
-## ⚡ Philosophy  
-> “AI is not a demo problem — it’s a systems engineering problem.”  
