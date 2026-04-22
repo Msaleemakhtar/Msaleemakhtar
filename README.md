@@ -1,10 +1,7 @@
 # 👋 Hi, I'm Muhammad Saleem  
 
-🚀 **AI Engineer | Agentic Systems Builder | Full Stack Developer**
+🚀 **AgenticAI Engineer | Computer Vision | Full Stack Developer**
 
----
-
-## 🧠 What I Do  
 I build **governed, reliable, and measurable AI agents** — not demos.  
 
 Focused on production-grade systems that are:
@@ -13,10 +10,8 @@ Focused on production-grade systems that are:
 - Reusable  
 - Built for real-world impact  
 
----
 
-## 🧩 Methodology  
-**Spec-Driven Development with Reusable Intelligence (SDD-RI)**  
+**🧩 Methodology:**   **Spec-Driven Development with Reusable Intelligence (SDD-RI)**  
 > Designing AI systems with clear specs, modular agents, and reusable intelligence blocks.
 
 
