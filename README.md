@@ -19,46 +19,25 @@ Focused on production-grade systems that are:
 **Spec-Driven Development with Reusable Intelligence (SDD-RI)**  
 > Designing AI systems with clear specs, modular agents, and reusable intelligence blocks.
 
----
 
-## 🛠️ Tech Stack  
 
-### Languages  
-- Python  
-- TypeScript  
 
-### AI & Agent Ecosystem  
-- OpenAI Agents SDK  
-- Google ADK  
-- LangGraph  
-- Claude Code  
-- Gemini CLI  
-- MCP (Model Context Protocol)  
-- A2A  
+**Languages:** Python , TypeScript 
 
-### Cloud & Systems  
-- Docker  
-- Kubernetes  
-- Dapr  
+**Stack:**   Claude Code  ,  Gemini CLI , MCP (Model Context Protocol) , Docker , Kubernetes  , Dapr, A2A
 
-### Frontend  
-- Next.js  
-- ChatKit  
+**Agent Frameworks:**  OpenAI Agents SDK  , Google ADK  , LangGraph  
 
----
+**Frontend:** Typescript, React js, Next.js  , ChatKit  
 
-## 🔥 Focus Areas  
-- Agentic AI Systems & Workflows  
-- Multi-Agent Architectures  
-- Distributed & Event-Driven Systems  
-- Production AI (Monitoring, Evaluation, Reliability)  
+**Backend:**  Python, FastAPI
 
----
+
 
 ## 🌐 Connect  
 
 - GitHub: https://github.com/Msaleemakhtar  
-- LinkedIn: :contentReference[oaicite:0]{index=0}  
+- LinkedIn: https://www.linkedin.com/in/saleemakhtar864/ 
 
 ---
 
