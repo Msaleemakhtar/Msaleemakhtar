@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Saleem Akhtar
 
-🚀 **Agentic AI Engineer | Computer Vision | Full Stack Developer**
+🚀 **Agentic AI Engineer | Full Stack Developer**
 
 I build **governed, reliable, and measurable AI agents** — not demos.  
 
