@@ -33,5 +33,4 @@ Focused on production-grade systems that are:
 
 ## 🌐 Connect  
 
-- GitHub: https://github.com/Msaleemakhtar  
 - LinkedIn: https://www.linkedin.com/in/saleemakhtar864/ 
