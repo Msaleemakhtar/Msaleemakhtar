@@ -26,6 +26,7 @@ Focused on production-grade systems that are:
 **Frontend:** Typescript, React js, Next.js  , ChatKit  
 
 **Backend:**  Python, FastAPI
+**AI/ML:** Pytorch , Computer Vision
 
 
 
